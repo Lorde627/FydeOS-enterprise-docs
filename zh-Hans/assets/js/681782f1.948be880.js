@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkenterprise_docs=self.webpackChunkenterprise_docs||[]).push([[8013],{240:e=>{e.exports=JSON.parse('{"permalink":"/FydeOS-enterprise-docs/zh-Hans/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
