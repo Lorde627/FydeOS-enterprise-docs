@@ -5,11 +5,10 @@
     <img src=https://github.com/Lorde627/fydeRhythm/blob/master/fydeRhythm%20Logo.png?raw=true width=138/>
 </p>
 <p align="center">
-    <a href="https://r.daily.dev/chrome">
+    <a href="https://chrome.google.com/webstore/detail/%E7%9C%9F%E6%96%87%E9%9F%B5%E8%BE%93%E5%85%A5%E6%B3%95/ppgpjbgimfloenilfemmcejiiokelkni">
     <img src="https://img.shields.io/badge/%20-Chrome-red?logo=google-chrome&logoColor=white" alt="Download for Chrome" />
   </a>
-[![Chrome Web Store](https://badgen.net/chrome-web-store/stars/cdonnmffkdaoajfknoeeecmchibpmkmg?icon=chrome&color=0f9d58)](https://chrome.google.com/webstore/detail/cdonnmffkdaoajfknoeeecmchibpmkmg?hl=en)
-
+    
 **真文韵输入法**是FydeOS团队倾心打造的一款专为 ChromeOS 和 FydeOS 操作系统量身定制的输入法，其基础建立在功能卓越、高度可定制的 [RIME](https://rime.im/) 输入法引擎上。
 
 我们在此处展示的是第二代真文韵输入法的源代码。与第一代相比，第二代真文韵输入法引入了全新的设计理念和架构，将所有输入法组件，包括 RIME 引擎，全都封装在插件中，从而无需在系统中运行单独的服务器。我们借助 emscripten 工具链，将 RIME 引擎成功编译到 WebAssembly 中，使其能够直接在插件环境中运行。同时，我们对存储内容和启动流程进行了优化，确保启动更快捷，用户体验更加流畅。
