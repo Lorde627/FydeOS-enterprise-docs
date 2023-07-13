@@ -22,7 +22,7 @@
 - 🛠️ **配置文件修改权限**：提供配置文件修改权限，让你可以根据自身的需要自由调整输入法的设置。
 
 ## 下载地址
-- [Chrome 商店](https://chrome.google.com/webstore/detail/%E7%9C%9F%E6%96%87%E9%9F%B5%E8%BE%93%E5%85%A5%E6%B3%95/ppgpjbgimfloenilfemmcejiiokelkni)
+- [![Chrome 商店](https://img.shields.io/badge/%20-Chrome-red?logo=google-chrome&logoColor=white)](https://chrome.google.com/webstore/detail/%E7%9C%9F%E6%96%87%E9%9F%B5%E8%BE%93%E5%85%A5%E6%B3%95/ppgpjbgimfloenilfemmcejiiokelkni) 
 - [GitHub Release](https://github.com/FydeOS/fydeRhythm)
 
 ## 更多信息
